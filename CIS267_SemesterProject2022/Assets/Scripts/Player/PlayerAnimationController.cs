@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerAnimationController : MonoBehaviour
 {
     private Animator playerAnimator;
-    private string walkingBoolName = "isWalkingAnimationBool";
+    private string walkingBoolName = "isWalkingAnimatorBool";
     // Start is called before the first frame update
     void Start()
     {
